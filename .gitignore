@@ -23,6 +23,9 @@ $RECYCLE.BIN/
 *.lnk
 
 #webpack build system
+*.jpg
+*.png
+*.svg
 dist
 serve
 server
